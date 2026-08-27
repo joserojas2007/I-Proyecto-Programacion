@@ -18,9 +18,7 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated>
-      <config projectName="I_Poryecto_Programaci_n" targetName="I_Poryecto_Programaci_n" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -28,7 +26,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a087007e-8b2e-447a-a633-fd0b266ab21a" name="Changes" comment="" />
+    <list default="true" id="a087007e-8b2e-447a-a633-fd0b266ab21a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I Proyecto progra/Cancha.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I Proyecto progra/Cancha.h" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +51,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "joserojas2007"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/joserojas2007/I-Proyecto-Programacion.git",
+    "accountId": "f2ea0260-6ab9-4eb1-9ebc-2ef897be6fcf"
+  }
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="oTdB33Tq" />
   </component>
@@ -85,7 +104,7 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="I_Poryecto_Programaci_n" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="I_Poryecto_Programaci_n" TARGET_NAME="I_Poryecto_Programaci_n" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="I_Poryecto_Programaci_n" RUN_TARGET_NAME="I_Poryecto_Programaci_n">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -103,5 +122,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
   </component>
 </project>
