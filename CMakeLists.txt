@@ -1,11 +1,13 @@
 cmake_minimum_required(VERSION 4.3)
-project(I_Poryecto_Programaci_n)
+project(I_Proyecto_progra)
 
 set(CMAKE_CXX_STANDARD 14)
 
-include_directories("I Proyecto progra")
+include_directories(.)
 
-add_executable(I_Poryecto_Programaci_n
-        "I Proyecto progra/Cancha.h"
-        "I Proyecto progra/I Proyecto/cancha.cpp"
-        "I Proyecto progra/I Proyecto/cancha.cpp")
+add_executable(I_Proyecto_progra
+        Cancha.cpp
+        Cancha.h
+        mainExperimental.cpp
+        gestorCanchas.cpp
+        gestorCanchas.h)
