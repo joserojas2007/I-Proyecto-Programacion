@@ -6,7 +6,7 @@ using namespace std;
 
 class Cliente;
 class Reserva;
-class cancha;
+class Cancha;
 
 class GestorReservas {
 private:
@@ -19,7 +19,10 @@ public:
 	GestorReservas();
 	~GestorReservas();
 
-	Reserva* registrar(Cliente* cliente, cancha* cancha, int franjaInicial, int cantFranjas);
+	int getCantidadReservas();
+	Reserva* getReserva(int indice);
+
+	Reserva* registrar(Cliente* cliente, Cancha* cancha, int franjaInicial, int cantFranjas);
 	Reserva* buscarReserva(int numeroReserva);
 	bool cancelarReserva(int numeroReserva);
 
